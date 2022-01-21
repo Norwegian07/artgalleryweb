@@ -129,7 +129,10 @@ html,body{
         padding-left: 955px;
         padding-top: 65px;
     }
-
+.text15{
+    font-size: 36px;
+    color: white;
+}
 /* imagessss=========================================== */
 
 .one{
@@ -284,10 +287,12 @@ svg{
     width: 100%;
     position: relative;
     margin-left: 0%;
-    font-size: 70px;
+    font-size: 40px;
     text-align: left;
-    height: auto;
+    height: 400px;
     margin-top: 200px;
+    padding-top: 50px;
+    text-align: center;
 }
 
 /* text */
@@ -312,13 +317,13 @@ svg{
     font-size: 55px;
 }
 .text6{
-    font-size: 40px;
+    font-size: 55px;
     margin: 0%;
 }
 .text7{
 margin: 0%;
-font-size: 40px;
-width: 70%;
+font-size: 50px;
+width: 80%;
 }
 .text8{
     margin: 0%;
@@ -351,12 +356,18 @@ iframe{
     height: 1000px;
 }
 .black{
-    height: auto;
+    height: 1300px;
     width: 100%;
 }
 .footer{
    width: 100%;
    height: auto;
 }
-
+.text15{
+    font-size: 55px;
+}
+svg{
+    width: 60px;
+    height: 60px;
+}
 }
