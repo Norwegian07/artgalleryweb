@@ -1,373 +1,50 @@
 html,body{
     width: 100%;
     margin: 0%;
-    background-color: lightgray;
 }
-/*============================================= grid===================== */
-.second-grid{
-    box-shadow: 5px 5px 15px black;
-    z-index: 2;
-    width: 80%;
-    background-color: white;
-    position: absolute;
-    height: 1800px;
-    margin-right: 10%;
-    margin-left: 10%;
-    }
 
-
-
-
-/* all==============================texts =============================*/
+.two{
+    width: 100%;
+    height: auto;
+}
+.three{
+    
+}
+.img2{
+    margin-top: 100px;
+    margin-left: 8%;
+}
 .text{
-    font-size: 60px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-weight: bold;
-    color: white;
-    position: absolute;
-    margin-top: -600px;
-    padding: 10px;
-    }
-    .text2{
-        width: 300px;
-        height: 140px;
-        position: absolute;
-        margin-top: -500px;
-        margin-left: 880px;
-        font-size: 20px;
-      font-style: oblique;
-      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-      border: 1px solid black;
-      border: none;
-      background-color: rgb(128, 128, 128,0.25);
-    }
-    .text3{
-        border: 1px solid black;
-        color: white;
-        background-color: black;
-        width: 150px;
-        padding: 20px;
-        padding-left: 30px;
-        margin-left: 880px;
-        margin-top: -250px;
-        position: absolute;
-     font-family: 'Times New Roman', Times, serif;
-    }
-    .text4{
-        font-size: 26px;
-        margin-left: 50px;
-    }
-    .text4 h2{
-        margin-top: 150px;
-    }
-    .text5{
-        font-size: 16px;
-        width: 200px;
-        height: 30px;
-        margin-left: 50px;
-        margin-top: -20px;
-    }
-
-    .text6{
-        font-size: 24px;
-        font-weight: bold;
-        padding: 40px;
-        margin-left: 100px;
-    }
-    .text7{
-        font-size: 16.5px;
-        width: 400px;
-        text-align: center;
-        margin-left: 36.3%;
-        margin-top: -90px;
-    }
-    .text8{
-        margin-left: 75.6%;
-        margin-top: -70px;
-    }
-    .text9{
-        margin-top: 50px;
-        margin-left: 50%;
-    }
-    .text10{
-        font-family: 'Times New Roman', Times, serif;
-        font-size: 20px;
-        color: white;
-    }
-    .text10 a{
-        color: white;
-        text-decoration: none;
-    }
-    .text11{
-      color: white; 
-      font-family: 'Times New Roman', Times, serif;
-      font-size: 15.5px;
-      margin-top: -37px;
-      padding-left: 25px;
-    }
-
-    .text12{
-        color: white;
-        font-size: 40px;
-        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-        font-weight: bold;
-        padding: 100px;
-        text-align: center;
-    }
-    .text13{
-        color: coral;
-        font-size: 28px;
-        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-        padding-left: 950px;
-        margin-top: -230px;
-    }
-    .text14{
-        font-size: 16px;
-        color: white;
-        font-family: 'Times New Roman', Times, serif;
-        width: 400px;
-        padding-left: 955px;
-        padding-top: 65px;
-    }
-.text15{
-    font-size: 36px;
-    color: white;
+    font-size: 100px;
+    font-weight: 500;
 }
-/* imagessss=========================================== */
-
-.one{
-    width: 400px;
-    height: 800px;
-}
-.two{
-    width: 500px;
-    height: 800px;
-    margin-left: -5px;
-}
-.three{
-    width: 500px;
-    height: 300px;
-margin-left: 400px;
-position: absolute;
-margin-top: -180px;
-}
-.four{
-    width: 400px;
-    height: 450px;
-    margin-top: 200px;
-    margin-left: 100px;
-}
-.five{
-    width: 300px;
-    height: 200px;
-    position: absolute;
-    margin-top: 200px;
-    margin-left: 70px;
-}
-/* blackkk================================= */
-.black{
-    width: 100%;
-    height: 400px;
-    background-color: black;
-}
-.black2{
-    width: 280px;
-    height: 180px;
-    background-color: black;
-    position: absolute;
-    margin-left: 570px;
-    margin-top: -200px;
-    color: white;
-    text-align: center;
-    padding: 10px;
-}
-
-/*============================back and location buttons==============================================  */
-.back{
-    width: 200px;
-    height: 50px;
-    background-color: black;
-    margin-left: 28%;
-    position: absolute;
-}
-span{
-    font-size: 40px;
-    border: 1px solid black;
-    background-color: coral;
-    color: white;
-    margin-left: 1050px;
-    margin-top: -250px;
-    position: absolute;
-    height: 58px
-}
-
-
-footer{
-    width: 100%;
-    background-color: black;
-    height: auto;
-    position: absolute;
-    margin-top: 1800px;
-  height: 170px;
-  color: white;
- 
-}
-
-
-svg{
-    width: 30px;
-    height: 30px;
-    color: white;
-    padding: 15px;
-}
-
-
-
-.footer{
-    background-color: coral;
-    position: absolute;
-    width: 100%;
-    height: 250px;
-    margin-top: 0px;
-}
-.symbol{
-    background-color: coral;
-    width: 50px;
-    height: 50px;
-    font-size: 28px;
-    margin-left: -8px;
-    margin-top: -22px;
-}
-.symbol:hover{
-    cursor: pointer;
-}
-
-
-
-
-/*============================ mobile work  ==============================*/
-@media screen and (max-width : 1000px) {
-    html,body{
-        background-color: white;
-    }
-    .second-grid{
-        box-shadow: none;
-        width: 95%;
-        margin-left: 2.5%;
-        margin-right: 2.5%;
-    }
-    .one{
-        display: none;
-    }
-.two{
-    position: relative;
-    width: 100%;
-    height: auto;
-}
-.three{
-    position: relative;
-    width: 100%;
-    height: auto;
-    margin-left: 0%;
-    margin-top: 300px;
-}
-.four{
-    position: relative;
-    width: 100%;
-    height: auto;
-    margin-left: 0%;
-}
-.five{
-    position: relative;
-    width: 100%;
-    height: auto;
-    margin-left: 0%;
-}
-.black2{
-    width: 100%;
-    position: relative;
-    margin-left: 0%;
-    font-size: 40px;
-    text-align: left;
-    height: 400px;
-    margin-top: 200px;
-    padding-top: 50px;
-    text-align: center;
-}
-
-/* text */
 .text2{
-    font-size: 50px;
-    margin-left: 100px;
-    font-family: 'Times New Roman', Times, serif;
-    font-style: normal;
-    font-weight: bold;
-    width: 80%;
-    position: relative;
-    margin-top: 200px;
-    background: none;
+color: white;
+font-size: 60px;
+padding-left: 100px;
+}
+.text3{
+    color: white;
+    font-size: 100px;
+    width: 200px;
+    height :155px;
+    background-color: coral;
+    padding-top: 50px;
+    margin-left: 600px;
+    margin-top: -190px;
 }
 .text4{
-    width: 100%;
-    font-size: 80px;
+    font-size: 100px;
+    margin-top: 100px;
+    padding: 2px;
 }
 .text5{
-    width: 80%;
-    position: relative;
-    font-size: 55px;
-}
-.text6{
-    font-size: 55px;
-    margin: 0%;
-}
-.text7{
-margin: 0%;
-font-size: 50px;
-width: 80%;
-}
-.text8{
-    margin: 0%;
-    margin-top: 40px;
-    margin-left: 40px;
-}
-.text12{
-    margin-left: -600px;
-    position: relative;
-    font-size: 55px;
-}
-.text13,.text14{
-    margin-left: -900px;
-    margin-top: 100px;
-    font-size: 40px;
-    width: 85%;
-}
-footer{
-    position: absolute;
-    margin-top: 6200px;
-    height: auto;
+    font-size: 18px;
 }
 .button1{
-    position: relative;
-    margin-left: -800px;
-    width: 500px;
+    width: 600px;
+    border: 1px solid black;
     height: 200px;
-}
-iframe{
-    height: 1000px;
-}
-.black{
-    height: 1300px;
-    width: 100%;
-}
-.footer{
-   width: 100%;
-   height: auto;
-}
-.text15{
-    font-size: 55px;
-}
-svg{
-    width: 60px;
-    height: 60px;
-}
+    background-color: black;
+    margin-top: 50px;
 }
